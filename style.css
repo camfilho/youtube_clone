@@ -1,38 +1,44 @@
-.inputish{
+.inputish {
     width: 30rem; margin-left: 80px; margin-right: 0%; height: 2rem; margin-bottom: 2%; margin-top: 10px; vertical-align: middle
 }
-.divish{
+
+.divish {
     display:inline-block; margin-left:30%;
 }
-.flexito{
+
+.flexito {
     display: flex; flex-direction: row
 }
-.superflex{
+
+.superflex {
     display: flex; flex-direction:column
 }
-.miniflex{
+
+.miniflex {
     display: flex
 }
-.ache2{
+
+.ache2 {
     margin-left: 54% ;
 }
-.divzito{
+
+.divzito {
     border-bottom: 1px solid grey; margin-top:2%; margin-bottom:2%;
 }
-.imagencita1{
+.imagencita1 {
     width: 2rem; margin-left: 60%
 }
-.imagencita2{
+.imagencita2 {
     width: 2rem; margin-left: 1%
 }
-.aladito{
+.aladito {
     margin-left: 20%;
 }
-.columns{
+.columns {
     display:flex;
     flex-direction: row;
 }
-.botoncito{
+.botoncito {
     background-color: red;
     padding: 10px 15px 10px 15px;
 }
