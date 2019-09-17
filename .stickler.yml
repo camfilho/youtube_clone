@@ -1,6 +1,6 @@
 linters:
   stylelint:
       config: 'stylelint.config.js'
-        fixer: true
+      fixer: true
   csslint:
     fixer: true
