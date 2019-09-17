@@ -1,5 +1,11 @@
 .inputish {
-    width: 30rem; margin-left: 80px; margin-right: 0%; height: 2rem; margin-bottom: 2%; margin-top: 10px; vertical-align: middle
+    width: 30rem; 
+    margin-left: 80px; 
+    margin-right: 0%; 
+    height: 2rem; 
+    margin-bottom: 2%; 
+    margin-top: 10px; 
+    vertical-align: middle;
 }
 
 .divish {
@@ -7,37 +13,44 @@
 }
 
 .flexito {
-    display: flex; flex-direction: row
+    display: flex; flex-direction: row;
 }
 
 .superflex {
-    display: flex; flex-direction:column
+    display: flex; flex-direction:column;
 }
 
 .miniflex {
-    display: flex
+    display: flex;
 }
 
 .ache2 {
-    margin-left: 54% ;
+    margin-left: 54%;
 }
 
 .divzito {
-    border-bottom: 1px solid grey; margin-top:2%; margin-bottom:2%;
+    border-bottom: 1px solid grey; 
+    margin-top:2%; 
+    margin-bottom:2%;
 }
+
 .imagencita1 {
-    width: 2rem; margin-left: 60%
+    width: 2rem; margin-left: 60%;
 }
+
 .imagencita2 {
-    width: 2rem; margin-left: 1%
+    width: 2rem; margin-left: 1%;
 }
+
 .aladito {
     margin-left: 20%;
 }
+
 .columns {
     display:flex;
     flex-direction: row;
 }
+
 .botoncito {
     background-color: red;
     padding: 10px 15px 10px 15px;
