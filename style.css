@@ -1,16 +1,161 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
 .inputish {
   width: 30rem;
   margin-left: 80px;
-  margin-right: 0%;
+  margin-right: 0px;
+  padding-right: 0px;
   height: 2rem;
-  margin-bottom: 2%;
-  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-top: 0px;
   vertical-align: middle;
+  border: 0px 0px 0px 0px;
+  display: inline-block;
+  height: 33px;
 }
 
 .divish {
   display: inline-block;
-  margin-left: 35%;
+  margin-left: 05%;
+  vertical-align: center;
+}
+
+.margin-image {
+  margin-left: 20rem;
+  display: inline-block;
 }
 
 .flexito {
@@ -48,7 +193,7 @@
 }
 
 .aladito {
-  margin-left: 20%;
+  margin-left: 200px;
 }
 
 .columns {
@@ -59,4 +204,48 @@
 .botoncito {
   background-color: red;
   padding: 10px 15px 10px 15px;
+}
+
+.botoncito1 {
+  margin-top: 30px;
+  margin-left: -10px;
+  margin-right: 10px;
+  padding-left: 0px;
+  height: 40px;
+}
+
+.search_bar {
+  display: inline-block;
+}
+
+.nav-bar {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.burguer-width {
+  width: 2rem;
+}
+
+.logo {
+  width: 3rem;
+}
+
+.find_button {
+  width: 2rem;
+  margin-left: 0%;
+  margin-top: 0px;
+  padding-left: 0px;
+  border: 0px;
+}
+
+.divishjr {
+  display: flex;
+  width: 40px;
+  height: 40px;
+  margin-left: 400px;
+}
+
+.divishjr * {
+  margin-left: 20px;
 }
