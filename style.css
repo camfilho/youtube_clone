@@ -4,13 +4,16 @@
   margin-bottom: 20px;
   vertical-align: middle;
   display: inline-block;
-  height: 33px;
+  height: 40px;
+  margin-top: 22px;
+  box-sizing: border-box;
 }
 
 .divish {
   display: inline-block;
-  margin-left: 05%;
+  margin-left: 5%;
   vertical-align: center;
+  
 }
 
 .margin-image {
@@ -53,7 +56,7 @@
 }
 
 .aladito {
-  margin-left: 200px;
+  margin-left: 100px;
 }
 
 .columns {
@@ -71,6 +74,7 @@
   margin-left: -10px;
   margin-right: 10px;
   height: 40px;
+  display: inline;
 }
 
 .search_bar {
@@ -80,6 +84,7 @@
 .nav-bar {
   box-sizing: border-box;
   width: 100%;
+  display: inline-block;
 }
 
 .burguer-width {
@@ -96,11 +101,24 @@
 
 .divishjr {
   display: flex;
-  width: 40px;
+  width: 100%;
   height: 40px;
-  margin-left: 400px;
+  margin-left: 250px;
 }
 
 .divishjr * {
-  margin-left: 20px;
+  margin-left: 25px;
+}
+aside img{
+  height: 160px;
+  width: auto;
+  
+}
+aside{
+  margin-right: 10%;
+}
+.butn{
+  width: 20%;
+  display: inline;
+  font-size: 8px;
 }
