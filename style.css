@@ -108,13 +108,16 @@
 .divishjr * {
   margin-left: 25px;
 }
+
 aside img {
   height: 160px;
   width: auto;
 }
+
 aside {
   margin-right: 10%;
 }
+
 .butn {
   width: 20%;
   display: inline;
