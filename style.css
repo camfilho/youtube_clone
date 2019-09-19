@@ -13,7 +13,6 @@
   display: inline-block;
   margin-left: 5%;
   vertical-align: center;
-  
 }
 
 .margin-image {
@@ -109,15 +108,14 @@
 .divishjr * {
   margin-left: 25px;
 }
-aside img{
+aside img {
   height: 160px;
   width: auto;
-  
 }
-aside{
+aside {
   margin-right: 10%;
 }
-.butn{
+.butn {
   width: 20%;
   display: inline;
   font-size: 8px;
