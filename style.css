@@ -1,0 +1,125 @@
+.inputish {
+  width: 30rem;
+  margin-left: 80px;
+  margin-bottom: 20px;
+  vertical-align: middle;
+  display: inline-block;
+  height: 40px;
+  margin-top: 22px;
+  box-sizing: border-box;
+}
+
+.divish {
+  display: inline-block;
+  margin-left: 5%;
+  vertical-align: center;
+}
+
+.margin-image {
+  margin-left: 20rem;
+  display: inline-block;
+}
+
+.flexito {
+  display: flex;
+  flex-direction: row;
+}
+
+.superflex {
+  display: flex;
+  flex-direction: column;
+}
+
+.miniflex {
+  display: flex;
+}
+
+.ache2 {
+  margin-left: 54%;
+}
+
+.divzito {
+  border-bottom: 1px solid grey;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.imagencita1 {
+  width: 2rem;
+  margin-left: 60%;
+}
+
+.imagencita2 {
+  width: 2rem;
+  margin-left: 1%;
+}
+
+.aladito {
+  margin-left: 100px;
+}
+
+.columns {
+  display: flex;
+  flex-direction: row;
+}
+
+.botoncito {
+  background-color: red;
+  padding: 10px 15px 10px 15px;
+}
+
+.botoncito1 {
+  margin-top: 30px;
+  margin-left: -10px;
+  margin-right: 10px;
+  height: 40px;
+  display: inline;
+}
+
+.search_bar {
+  display: inline-block;
+}
+
+.nav-bar {
+  box-sizing: border-box;
+  width: 100%;
+  display: inline-block;
+}
+
+.burguer-width {
+  width: 2rem;
+}
+
+.logo {
+  width: 3rem;
+}
+
+.find_button {
+  width: 2rem;
+}
+
+.divishjr {
+  display: flex;
+  width: 100%;
+  height: 40px;
+  margin-left: 250px;
+}
+
+.divishjr * {
+  margin-left: 25px;
+}
+
+aside img {
+  height: 160px;
+  width: auto;
+}
+
+aside {
+  margin-right: 10%;
+}
+
+.butn {
+  width: 20%;
+  display: inline;
+  font-size: 8px;
+}
